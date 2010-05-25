@@ -1,0 +1,203 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <link href="bof.css" rel="stylesheet" type="text/css">
+    <title>
+      Shinjuku BOF: the event
+    </title>
+  </head>
+  <body>
+    <table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
+      <tr>
+        <td colspan="3" height="70">
+          <a href="/"><img border="0" src="title.gif" width="394"
+          height="70" alt="Shinjuku BOF"></a>
+        </td>
+      </tr>
+      <tr>
+        <td width="131" bgcolor="#000000" valign="top" rowspan="2">
+          <img border="0" src="tsubo.jpg" width="132" alt="" height="104"><br><br>
+          <a href="updates.html"
+	   onmouseout="updates.src='updates.gif';"
+	   onmouseover="updates.src='updates-over.gif';"><img
+	    border="0" src="updates.gif" alt="updates" name="updates"
+	    width="99" height="30"></a><br>
+
+           <img border="0" src="event-set.gif" width="99" alt="the event" height="30"><br>
+
+          <a href="keysigning.html"
+	   onmouseout="keysign.src='keysign.gif';"
+	   onmouseover="keysign.src='keysign-over.gif';"><img
+	    border="0" src="keysign.gif" alt="keysign" name="keysign"
+	    width="111" height="30"></a><br>
+
+           <a href="place.html"
+	   onmouseout="place.src='place.gif';"
+	   onmouseover="place.src='place-over.gif';"><img
+	   border="0" name="place" src="place.gif" alt="place" width="99" height="30"></a><br>
+        </td>
+        <td width="10" height="610" rowspan="2">
+          <br>
+        </td>
+        <td bgcolor="#CCCCCC" valign="top" align="left">
+          <div class="main">
+
+<div align="right">
+ <a href="event.html">&#26085;&#26412;&#35486;</a> | English
+</div>
+
+            <h1>
+			  Welcome to "Shinjuku B. O. F."
+            </h1>
+
+
+
+
+<p>
+The <a href="http://www.debian.org/">Debian Project</a> will turn 10 this August;
+(The Debian Project was officially founded by Ian Murdock on August 16th, 1993).
+<a href="http://www.debian.or.jp/index.html.en">Debian JP Project</a> marks
+the anniversary of this, and organizes a memorial event in which all Debian users
+in Japan will gather in a hall.
+</p>
+
+<p>
+The <a href="http://www.vinelinux.org/">Project Vine</a>, which will turn 5, will
+also join into the event. Let's have fun time!
+</p>
+
+<table class="table" border=0 width="100%">
+
+<tr>
+  <th width="50">Title</th>
+  <td>Shinjuku B. O. F. </td>
+</tr>
+
+<tr>
+  <th>When</th>
+  <td>2003.8.16 00:00 - 05:00<br>
+  CAUTION: This is *not* a daytime event. It is beginning at the time just into
+  8.16 midnight.)</td>
+</tr>
+
+<tr>
+  <th>Where</th>
+  <td><a href="place.html">Shinjuku LOFT PLUSONE</a></td>
+</tr>
+
+<tr>
+  <th>Organiser</th>
+  <td><a href="http://www.debian.or.jp/">Debian JP Project</a></td>
+</tr>
+
+<tr>
+  <th>Cooperation</th>
+  <td><a href="http://www.vinelinux.org/">Project Vine</a></td>
+</tr>
+
+<tr>
+  <th>Admission</th>
+  <td>charge 1,000YEN. (with 1 drink; extra charge: drinks and foods)<br>
+  PAY THERE AT THE DAY. Please have exact fare.</td> 
+</tr>
+
+<tr>
+  <th>Sponsors</th><td>
+  <a href="http://www.netvillage.co.jp/">NetVillage Co., Ltd.</a><br>
+  <a href="http://www.valinux.co.jp/">VA Linux Systems Japan K.K.</a>
+  </td>
+</tr>
+
+<tr>
+  <th>Subject</th>
+  <td>Drinking alcohol and snacks -
+  Talk, discuss, shout, propose, 
+  exclaim, hack, make revolution, or whatever on Debian, Vine and Linux
+  and enjoy the night!</td>
+</tr>
+
+</table>
+
+<p>There is also <a href="keysigning.html">Keysigning Party @ Shijuku BOF</a>.
+Developers and prospective developers should exchange the keysign each other.</p>
+
+<h2>
+Time table
+</h2>
+
+
+
+<table class="table" border=0 width="100%">
+
+<tr>
+  <th width="50">00:00</th>
+  <td>open the door and start accepting
+  (There's no prior application etc. are planned, and come to the hall directly.)</td> 
+</tr>
+
+<tr>
+  <th><br></th>
+  <td>(T.B.D.)</td>
+</tr>
+
+<tr>
+  <th>05:00</th>
+  <td>break up</td>
+</tr>
+
+</table>
+
+
+
+
+<h2>
+Staffs and Performer
+</h2>
+
+<p>
+If you are interested in this plan, and to help us as a staff or a performer,
+please subscribe jp-events@debian.or.jp mailing list and express.
+(follow the same procedure in <a
+href="http://www.debian.or.jp/MailingList.html">http://www.debian.or.jp/MailingList.html</a>
+(Japanese only))
+</p>
+
+
+<h2>
+Event Sponsors
+</h2>
+
+<p>
+Thanks goes to NetVillage and VA Linux Systems Japan, for supporting us!
+</p>
+
+<table class="white" border=0 width="100%">
+<tr>
+  <td align=center width=40%>
+  <a href="http://www.netvillage.co.jp/"><img src="NVLogo.gif" border=0 alt=""></a><br>
+  <a href="http://www.netvillage.co.jp/">NetVillage Co.,Ltd.</a><br>
+  </td>
+  <td align=center width=40%>
+  <a href="http://www.valinux.co.jp/"><img src="VAJ_ver.gif" border=0 alt=""></a><br>
+  <a href="http://www.valinux.co.jp/">VA Linux Systems Japan Co.,Ltd.</a><br>
+  </td>
+</tr>
+</table>
+
+
+
+          </div>
+        </tr></td>
+	<tr><td bgcolor="#CCCCCC" height="1">
+            <p class="rcs">
+              <img border="0" src="kana-shinjuku.gif" width="220" alt=""
+              height="33"><img border="0" src="bof-kana.gif" alt=""
+                 width="217" height="40"><br>
+               $Id: event.html.en,v 1.9 2003-08-01 13:59:12 morimoto Exp $
+            </p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

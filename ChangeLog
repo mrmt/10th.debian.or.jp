@@ -1,0 +1,130 @@
+Sat Aug 16 23:29:29 2003  Kenshi Muto  <kmuto@debian.org>
+
+	* updates.html, event.html: 終了告知と御礼
+	* サーバは8/31まで保持しようかと思います。
+
+2003-08-12  Fumitoshi UKAI  <ukai@debian.or.jp>
+
+	* keysigning party 鍵提出締切
+	  ksp-10th.* 追加
+	  keysigning.html 更新
+
+2003-08-11  Jun Morimoto  <morimoto@xantia.citroen.org>
+
+	* 暫定タイムテーブルを入れた
+
+Fri Aug  1 09:50:40 2003  Kenshi Muto  <kmuto@debian.org>
+
+	* htdocs/event.html*: add sponsors (NV, VAJ)
+	* 各社ロゴをトップページに入れたほうがよい?
+
+2003-07-30  Jun Morimoto  <morimoto@xantia.citroen.org>
+
+	* src/: added keysign.psd
+	* htdocs/: added keysign.gif, keysign-{over,set}.gif
+	* htdocs/*.html: added navigation to keysigning.html
+
+Mon Jul 28 18:50:44 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
+
+	* event.html.en: keysigning.html 関連追従
+
+Sun Jul 27 16:30:48 2003  Kenshi Muto  <kmuto@debian.org>
+
+	* keysigning.html: Typo修正、gpg --export -aの記述を追加
+	* event.html: keysigning.html へリンク追加 (.enは手をつけてません)
+	* updates.html: keysigning partyのお知らせ追加
+
+2003-07-26  Fumitoshi UKAI  <ukai@ukai.org>
+
+	* keysigning.html: 追加
+
+Mon Jul 14 00:25:16 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
+
+	* event.html.en: merge from jp-events:00299
+
+Sun Jul 13 04:28:24 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
+
+	* event.html*: 日本語 <=> English の切り替えリンク追加
+
+2003-07-12  Jun Morimoto  <morimoto@xantia.citroen.org>
+
+	* src/top-page-image.psd: fixed the day of the week notation
+	  (fri -> sat)
+	* htdocs/str1-top.gif: follow the fixed top-page-image.psd
+	use lighter matte color to match better
+
+2003-07-12  Tatsuki Sugiura  <sugi@nemui.org>
+
+	* htdocs/str1-top.gif:
+	とりあえず。24:00 → 0:00 の変更に曜日を追従。
+	psd は直してないです。
+
+Sat Jul 12 02:30:53 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
+
+	* event.html.en: 必要ないかもしれませんが追加しときます
+
+2003-07-10  Tatsuki Sugiura  <sugi@nemui.org>
+
+	* event.html, place.html, updates.html:
+	多少デザイン変更。外枠テーブル height=100%, ロゴを一番下に。
+	DTD を 4.01 に 統一。
+
+2003-07-09  Tatsuki Sugiura  <sugi@nemui.org>
+
+	* event.html, place.html, updates.html:
+	ページ遷移でメニューが揺れ動かないように
+
+2003-07-08  Jun Morimoto  <morimoto@xantia.citroen.org>
+
+	* <title> 修正
+
+Tue Jul  8 18:53:27 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
+
+	* place.html, updates.html: name="event" は予約語のようです
+	  events.src として逃げてます
+	       ^
+
+2003-07-08  Jun Morimoto  <morimoto@xantia.citroen.org>
+
+	* place.html, event.html, updates.html: fixed valign
+	* htdocs/place.html: タイトル変更 (おこしかた → アクセス)
+
+Tue Jul  8 14:04:06 2003  Kenshi Muto  <kmuto@topstudio.co.jp>
+
+	* event.html 事前申込は現状、予定ナシ。直接会場まで
+
+Tue Jul  8 12:09:23 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
+
+	* place.html typo? fixed (s/身印/目印/)
+
+Tue Jul  8 11:51:01 2003  Kenshi Muto  <kmuto@topstudio.co.jp>
+
+	* index.html event, place公開
+	* event.html Vineを「協賛」から「協力」に。文面も少し修正
+	* event.html チャージ代 1,000円として記述
+
+2003-07-07  Jun Morimoto  <morimoto@xantia.citroen.org>
+
+	* 2003/8/15 -> 8/16 に日付書き方を変更
+
+2003-07-07  Jun Morimoto  <morimoto@xantia.citroen.org>
+
+	* place.html, map-print.gif: 印刷用mediaで黒線地図に差し替え
+	* index.html を本番に差し替え
+	トップページから内部へのリンクはいちおう殺したままにしてある
+	* event.html, updates.html 内容適宜突っこんだ
+
+2003-07-06  Jun Morimoto  <morimoto@xantia.citroen.org>
+
+	* tidy up
+	* added updates.html, vine.jpg
+	* added psd files
+	* added COPYRIGHT
+	* added mouse over effects, bof.css
+	* added loft-map.fla, map.gif, modified place.html
+
+Sun Jul  6 16:11:22 2003  Kenshi Muto  <kmuto@debian.org>
+
+	* 変更かけたらいちおこのファイルに書いていくことにしましょうか。
+	* src/はpsdとかのファイル、htdocsが公開ファイル置き場です
+

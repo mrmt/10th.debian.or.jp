@@ -1,0 +1,258 @@
+Saturday, August 16th 2003                Fumitoshi UKAI <ukai@debian.or.jp>
+
+                  Shinjuku BOF Keysigning Party
+
+                   List of Participants (v 1.0)
+
+Here's what you have to do with this file:
+(1) Print this file to paper.
+(2) Compute this file's MD5 checksum and optionally also its SHA1 checksum.
+   gpg --print-md md5 ksp-10th.txt   (or use md5sum)
+   gpg --print-md sha1 ksp-10th.txt  (or use sha1sum)
+(3) fill in the hash values on the printout.
+(4) Bring the printout, a pen, and proof of identity to the keysigning party
+   (password or driver's license)
+
+MD5 Checksum:  __ __ __ __ __ __ __ __    __ __ __ __ __ __ __ __           [ ]
+
+SHA1 Checksum: ____ ____ ____ ____ ____    ____ ____ ____ ____ ____         [ ]
+
+001  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/3CC88C09 1999-11-22 Fumitoshi UKAI <ukai@debian.org>
+     Key fingerprint = 04FB 134F B106 D372 D28C  C8A7 F43E 7266 3CC8 8C09
+uid                            Fumitoshi UKAI <ukai@debian.or.jp>
+sub  2048g/8B251DCF 1999-11-22
+
+002  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/72D03CB1 1999-09-21 Kenshi Muto <kmuto@debian.org>
+     Key fingerprint = 360B B879 6957 5D6F EED3  D986 40A5 BEED 72D0 3CB1
+uid                            Kenshi Muto <kmuto@topstudio.co.jp>
+uid                            Kenshi Muto <kmuto@debian.or.jp>
+uid                            Kenshi Muto <kmuto@isoternet.org>
+uid                            Kenshi Muto <kmuto@debian.gr.jp>
+uid                            Kenshi Muto <kmuto@linux.or.jp>
+uid                            Kenshi Muto <kmuto@debuan.org>
+uid                            Kenshi Muto <kmuto@opensource.gr.jp>
+sub  2048g/4BABE8A6 1999-09-21
+
+003  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/CDC5053C 2001-03-21 NAKANO Takeo <nakano@apm.seikei.ac.jp>
+     Key fingerprint = 8849 D21F 7C59 7B3A 31F5  98A5 B219 F61C CDC5 053C
+sub  1024g/5476EF08 2001-03-21
+
+004  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/CD3756F4 2000-04-29 Junichi Uekawa <dancer@debian.org>
+     Key fingerprint = 17D6 120E 4455 1832 9423  7447 3059 BF92 CD37 56F4
+uid                            Junichi Uekawa <dancer@netfort.gr.jp>
+sub  1024g/32E6C032 2000-04-29
+
+005  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/ECA94FA8 2000-01-19 ISHIKAWA Mutsumi <ishikawa@debian.org>
+     Key fingerprint = A7DB B59A 4268 DDF2 2760  3594 7E2F 30EE ECA9 4FA8
+uid                            ISHIKAWA Mutsumi <ishikawa@linux.or.jp>
+uid                            ISHIKAWA Mutsumi <ishikawa@debian.or.jp>
+uid                            ISHIKAWA Mutsumi <ishikawa@debian.gr.jp>
+uid                            ISHIKAWA Mutsumi <ishikawa@hanzubon.org>
+uid                            ISHIKAWA Mutsumi <ishikawa@hanzubon.jp>
+uid                            ISHIKAWA Mutsumi <ishikawa@isoternet.org>
+uid                            ISHIKAWA Mutsumi <ishikawa@debuan.org>
+sub  2048g/0A8E7F49 2000-01-19
+
+006  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/9DB19904 2001-09-30 Akira TAGOH <tagoh@debian.org>
+     Key fingerprint = 06B7 CF30 4EF6 224A E660  7A2A D900 A735 9DB1 9904
+uid                            Akira TAGOH <at@gclab.org>
+uid                            Akira TAGOH <tagoh@gnome.gr.jp>
+uid                            Akira TAGOH <tagoh@jp.gnome.org>
+uid                            Akira TAGOH <tagoh@redhat.com>
+uid                            Akira TAGOH <tagoh@gnome-db.org>
+sub  2048g/A9B76E88 2001-09-30
+
+007  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/C2CE8099 1999-11-01 NOKUBI Takatsugu <knok@daionet.gr.jp>
+     Key fingerprint = BDD7 23BB B724 1FA2 1BB3  2EC0 2BA8 2602 C2CE 8099
+uid                            NOKUBI Takatsugu <knok@debian.or.jp>
+uid                            NOKUBI Takatsugu <knok@isoternet.org>
+uid                            NOKUBI Takatsugu <knok@feedmania.org>
+uid                            NOKUBI Takatsugu (Namazu Project) <knok@namazu.org>
+uid                            NOKUBI Takatsugu (Debian Project) <knok@debian.org>
+uid                            NOKUBI Takatsugu <knok@fsij.org>
+uid                            NOKUBI Takatsugu (Office) <nokubi@eal.or.jp>
+sub  1024g/B5BAAAE8 1999-11-01
+
+008  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/56F06D01 2002-01-05 YAEGASHI Takeshi <yaegashi@debian.org>
+     Key fingerprint = 864E EF5D E946 DE38 14D4  D2D4 6FEA 7E26 56F0 6D01
+uid                            YAEGASHI Takeshi <takeshi@yaegashi.jp>
+uid                            YAEGASHI Takeshi <yaegashi@dodes.org>
+uid                            YAEGASHI Takeshi <t@keshi.org>
+uid                            YAEGASHI Takeshi <yaegashi@rd.namco.co.jp>
+sub  2048g/16DC20C7 2002-01-05
+
+009  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/7AB1F0FE 2000-01-22 GOTO Masanori <gotom@stormix.com>
+     Key fingerprint = 49CD 2A91 E932 A2EC 94E5  973A F5D0 27D1 7AB1 F0FE
+uid                            GOTO Masanori <gotom@debian.or.jp>
+sub  2048g/1F53F5B4 2000-01-22
+
+010  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/004DA6B4 2000-04-05 OHASHI Akira <bg66@debian.org>
+     Key fingerprint = A8B9 0F69 02FD 86E7 D339  C9A6 FA96 A148 004D A6B4
+uid                            Akira Ohashi <hato@yui.gr.jp>
+uid                            OHASHI Akira <bg66@koka-in.org>
+uid                            Akira Ohashi <bg66@luck.gr.jp>
+uid                            Akira Ohashi <bg66@koka-in.org>
+uid                            Akira Ohashi <bg66@xiary.org>
+uid                            OHASHI Akira <bg66@users.sourceforge.net>
+sub  1024g/5DB89335 2000-04-05
+
+011  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/AE31C009 1999-11-12 Taketoshi Sano <sano@debian.org>
+     Key fingerprint = A1A0 F2D0 9C5D 7D61 DBA1  1507 D0B3 F3D0 AE31 C009
+uid                            Taketoshi Sano (Debian) <sano@debian.org>
+uid                            Taketoshi Sano (Debian JP) <sano@debian.or.jp>
+uid                            Taketoshi Sano (Personal) <kgh12351@nifty.ne.jp>
+sub  2048g/C5DEFBD3 1999-11-12
+
+012  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/B25A5CF1 2001-07-11 Masahito Omote <omote@utyuuzin.net>
+     Key fingerprint = 5230 5757 7800 3789 D68A  FD38 E106 0E07 B25A 5CF1
+uid                            Masahito Omote <omote@sapmed.ac.jp>
+uid                            Masahito Omote <omote@debian.org>
+sub  1024g/83587EE1 2001-07-11
+
+013  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/BDBA767D 2003-02-16 MATZNAGA Hitoshi <debian@matznaga.net>
+     Key fingerprint = 5120 D374 2F7E 079A 5551  605E 1CC6 FD62 BDBA 767D
+sub  1024g/6D2C75C2 2003-02-16
+
+014  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/DEA9EC6B 2002-01-08 Hidetaka Iwai <tyuyu@debian.or.jp>
+     Key fingerprint = 3383 38F9 E121 0D16 5234  1B60 3F4A 295B DEA9 EC6B
+uid                            Hidetaka Iwai <tyuyu@mb6.seikyou.ne.jp>
+uid                            Hidetaka Iwai <tyuyu@sings.jp>
+uid                            Hidetaka Iwai <tyuyu@ec.hokudai.ac.jp>
+uid                            Hidetaka Iwai <tyuyu@musee.cims.hokudai.ac.jp>
+sub  1024g/C237AD6E 2002-01-08
+
+015  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/EF50D1FF 1999-10-09 Oliver M. Bolzer <oliver@gol.com>
+     Key fingerprint = 621B 52F6 2AC1 36DB 8761  018F 8786 87AD EF50 D1FF
+uid                            Oliver M. Bolzer <oliver@fakeroot.net>
+uid                            Oliver M. Bolzer <oliver@debian.org>
+uid                            Oliver M. Bolzer <bolzer@informatik.uni-muenchen.de>
+sub  1024g/BE183048 1999-10-09
+
+016  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/E8F70ECF 2000-03-07 YAMASHITA Junji <ysjj@unixuser.org>
+     Key fingerprint = 09F2 744D E103 A340 8269  1E57 BE7F BDB9 E8F7 0ECF
+sub  1024g/FBA2ADE8 2000-03-07
+
+017  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/2FA9A38C 2001-12-02 ARAKI Yasuhiro <ar@debian.org>
+     Key fingerprint = 1E12 FE3C C99B D0FA 28AF  1316 34E6 22A6 2FA9 A38C
+uid                            ARAKI Yasuhiro <yasu@debian.or.jp>
+sub  1024g/C48E1806 2001-12-02
+
+018  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/B15813FE 2001-10-09 Daiki Ueno <ueno@unixuser.org>
+     Key fingerprint = 8003 7CD0 0F1A 9400 03CA  50AA A5B6 B2D4 B158 13FE
+sub  2048g/2A9BEA2D 2001-10-09 [expires: 2006-08-10]
+
+019  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/3ECF6F39 2002-12-10 Noriyuki SATOH <nsatoh@harapeko.org>
+     Key fingerprint = 669C A2FD 0C66 0C20 E043  C4C6 3183 EA48 3ECF 6F39
+sub  1024g/63E1F29B 2002-12-10
+
+020  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/6B4FBF32 2003-08-09 Satoshi MACHINO <machino@yendot.org>
+     Key fingerprint = 815A FA0C 973D AF3C C9EA  7B9B 8D84 8CD3 6B4F BF32
+uid                            Satoshi MACHINO <machino@vinelinux.org>
+sub  1024g/2E051AEF 2003-08-09
+
+021  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/25F41F1F 2000-03-31 Masayuki Hatta <mhatta@gnu.org>
+     Key fingerprint = DC0E B227 0013 7959 8E31  7CA4 BC0E 5B25 25F4 1F1F
+uid                            Masayuki Hatta <mhatta@debian.org>
+uid                            Masayuki Hatta <mhatta@debian.or.jp>
+uid                            Masayuki Hatta <mhatta@debian.gr.jp>
+uid                            Masayuki Hatta <mhatta@mhatta.org>
+uid                            Masayuki Hatta <mhatta@ad-hoc.org>
+uid                            Masayuki Hatta <mhatta@po.airs.net>
+uid                            Masayuki Hatta <mhatta@opensource.gr.jp>
+uid                            Masayuki Hatta <mhatta@cy.e.u-tokyo.ac.jp>
+uid                            Masayuki Hatta <mhatta@jcom.home.ne.jp>
+uid                            Masayuki Hatta <masayuki-h@geocities.co.jp>
+uid                            Masayuki Hatta <e11700@mail.ecc.u-tokyo.ac.jp>
+uid                            Masayuki Hatta <g920202@mail.ecc.u-tokyo.ac.jp>
+uid                            Masayuki Hatta <ee36037@mail.ecc.u-tokyo.ac.jp>
+sub  1024g/63BC2919 2000-03-31
+
+022  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/5C833B7D 2002-06-30 Shinji R. Yamane <s-yamane@soft.iwate-pu.ac.jp>
+     Key fingerprint = FF8F 108C 2716 522E BB48  8591 C2E3 6953 5C83 3B7D
+uid                            Shinji R. Yamane (CPSR/Japan) <s-yamane@computer.org>
+sub  1024g/12528DD0 2002-06-30
+
+023  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/77DD899E 1998-07-04 TAKAHASHI Kaoru <kaoru@trans-nt.com>
+     Key fingerprint = AAB0 7A9B 223E 8B19 C9EE  BDB1 EE82 DD31 77DD 899E
+uid                            TAKAHASHI Kaoru <kaoru@kaisei.org>
+uid                            TAKAHASHI Kaoru <kaoru@se.uec.ac.jp>
+uid                            Kaoru Takahashi <nil@din.or.jp>
+uid                            Kaoru Takahashi <kaoru@kaisei.org>
+uid                            Kaoru Takahashi <kaoru@triaez.kaisei.org>
+sub  2048g/F8F8EA8B 1998-07-04
+
+024  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/8FB75B97 2003-07-25 MATSUBAYASHI 'Shaolin' Kohji <shaolin@peugeot405.org>
+     Key fingerprint = 981C 4171 3044 DC45 6024  EA00 A413 F44D 8FB7 5B97
+uid                            MATSUBAYASHI 'Shaolin' Kohji <shaolin@rhythmaning.org>
+uid                            MATSUBAYASHI 'Shaolin' Kohji <shaolin@vinelinux.org>
+uid                            MATSUBAYASHI 'Shaolin' Kohji <shaolin@vinecaves.com>
+sub  2048g/04B76132 2003-07-25
+
+025  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/74322CB0 2002-09-30 Daisuke SUZUKI <daisuke@linux.or.jp>
+     Key fingerprint = 7DE6 9AC6 5E5B 1AF8 B38E  0992 90BF 4C09 7432 2CB0
+uid                            Daisuke SUZUKI <daisuke@vinecaves.com>
+uid                            Daisuke SUZUKI <daisuke@vinelinux.org>
+uid                            Daisuke SUZUKI <daisuke@vinelinux.com>
+uid                            Daisuke SUZUKI <daisuke@dicey.org>
+sub  2048g/EFD627C4 2002-09-30
+
+026  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/BD8E7106 2001-10-21 Nobuhiro IMAI <nov@yo.rim.or.jp>
+     Key fingerprint = F39E D552 545D 7C64 D690  F644 5A15 746C BD8E 7106
+uid                            Nobuhiro IMAI <nov@debian.or.jp>
+sub  2048g/E062A80C 2001-10-21
+
+027  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/CC234D4A 2000-10-03 SUGIYAMA Tomoaki <tomos@webmasters.gr.jp>
+     Key fingerprint = AEC1 3C5E D252 018E 0119  BD84 DE97 944D CC23 4D4A
+uid                            SUGIYAMA Tomoaki <tomoaki@mail.wbs.ne.jp>
+uid                            Tomoaki Sugiyama <tomoaki@mail.wbs.ne.jp>
+uid                            SUGIYAMA Tomoaki <tomos@debian.or.jp>
+sub  1024g/BF010847 2000-10-03
+
+028  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/02CC24AA 2003-08-11 Kater Murr <giovanni@tym.fitweb.or.jp>
+     Key fingerprint = 6B50 AD02 E883 0086 C16C  B850 2E00 50DA 02CC 24AA
+sub  1024g/D238214B 2003-08-11
+
+029  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/01883935 2003-02-22 Keisuke URAGO <bravo@resourcez.org>
+     Key fingerprint = B64B 4D6B 45A7 74FB 5537  A57A 6027 F69D 0188 3935
+sub  2048g/44127618 2003-02-22 [expires: 2004-02-22]
+
+030  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/52936E17 2000-11-23 Takashi Okamoto <tora@debian.org>
+     Key fingerprint = 8B37 1FE6 76B2 7BA6 D59A  9BF7 E7F4 46C8 5293 6E17
+uid                            Takashi Okamoto <toraneko@kun.ne.jp>
+sub  1024g/5FAE9A05 2000-11-23
+
+031  [ ] Fingerprint OK        [ ] ID OK
+pub  1024D/928774D9 2003-06-30 Tomohiro 'Tomo-p' KATO <tomop@teamgedoh.net>
+     Key fingerprint = A6D8 3981 3575 9F00 EFC3  9C2B F03A 5383 9287 74D9
+sub  1024g/8539F21B 2003-06-30
+

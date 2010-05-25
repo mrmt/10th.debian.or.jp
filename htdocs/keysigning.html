@@ -1,0 +1,195 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-2022-jp">
+    <link href="bof.css" rel="stylesheet" type="text/css">
+    <title>
+      Shinjuku BOF: Keysigning Party
+    </title>
+  </head>
+  <body>
+    <table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
+      <tr>
+        <td colspan="3" height="70">
+          <a href="/"><img border="0" src="title.gif" width="394"
+          height="70" alt="Shinjuku BOF"></a>
+        </td>
+      </tr>
+      <tr>
+        <td width="131" bgcolor="#000000" valign="top" rowspan="2">
+          <img border="0" src="keysign.jpg" width="132" alt="" height="104"><br><br>
+          <a href="updates.html"
+	   onmouseout="updates.src='updates.gif';"
+	   onmouseover="updates.src='updates-over.gif';"><img
+	    border="0" src="updates.gif" alt="updates" name="updates"
+	    width="99" height="30"></a><br>
+
+          <a href="event.html"
+	   onmouseout="events.src='event.gif';"
+	   onmouseover="events.src='event-over.gif';"><img
+	    border="0" src="event.gif" alt="the event" name="events"
+	    width="99" height="30"></a><br>
+
+           <img border="0" src="keysign-set.gif" width="111" alt="keysigning" height="30"><br>
+
+           <a href="place.html"
+	   onmouseout="place.src='place.gif';"
+	   onmouseover="place.src='place-over.gif';"><img
+	   border="0" name="place" src="place.gif" alt="place" width="99" height="30"></a><br>
+        </td>
+        <td width="10" height="610" rowspan="2">
+          <br>
+        </td>
+        <td bgcolor="#CCCCCC" valign="top" align="left">
+          <div class="main">
+
+<!--
+<div align="right">
+ &#26085;&#26412;&#35486; | <a href="event.html.en">English</a>
+</div>
+-->
+
+            <h1>
+              Keysigning Party @ Shinjuku BOF
+            </h1>
+
+<p>
+「新宿BOF」にてOpenPGP (pgp/gpg) keysigning partyを行います。
+Debian developer, Debian JP Projectメンバーの人だけに限らず、GnuPGを
+利用している方は Web of trustを強めるために是非参加してください。
+</p>
+
+      <h3>keysigningってなに? なぜするの?</h3>
+      
+      <p><a
+          href="http://www.cryptnet.net/fdp/crypto/gpg-party.html#toc1">GnuPG
+          Keysigning Party HOWTO</a>あたりを見てください。ただし
+	  当日は以下に書いてある方法で行います。</p>
+
+      <h3>どうするの?</h3>
+
+      <p>Len Sassamanの <a
+        href="http://sion.quickie.net/keysigning.txt">効率的なグループ
+          キー署名の方法</a>に従います。
+        
+      <ul>
+
+        <!--
+        <li><strong>8月11日 23:59 JST</strong> までにASCII armorの公開鍵 
+	(<code>gpg --export -a 自分のID &gt; 出力ファイル</code>) を
+	text/plain, 7bit で
+	  <a href="mailto:ksp-10th@debian.or.jp">ksp-10th@debian.or.jp</a> 
+          に送ってください。</li>
+        <li>上記の締切を過ぎた時点で、投稿された公開鍵と
+	    そのfingerprintをまとめたテキスト <code>ksh-10th.txt</code> を
+            このサイトで用意します。</li>
+        -->
+        <li>ASCII armorの公開鍵を提出する締切は過ぎました。</li>
+
+        <li>投稿された鍵を含むファイル 
+           (<code><a href="ksp-10th.asc">ksp-10th.asc</a></code>)と
+            その中に含まれているそれぞれの鍵のfingerprintが書かれたファイル
+           (<code><a href="ksp-10th.txt">ksp-10th.txt</a></code>)を
+           ダウンロードします。
+        
+        
+        <li>そのファイル
+            <code><a href="ksp-10th.txt">ksp-10th.txt</a></code>の中の自分の
+            fingerprintが正しいかどうか
+            チェックしてください。またそのファイルの
+	    MD5 hashを求めてください。
+          
+          <blockquote><p><code>% md5sum ksp-10th.txt</code></p></blockquote>
+          or
+          <blockquote><p><code>% gpg --print-md md5 ksp-10th.txt</code></p></blockquote>
+
+	   また、SHA1 hashも求めてください。
+
+          <blockquote><p><code>% gpg --print-md sha1 ksp-10th.txt</code></p></blockquote>
+
+          ちなみに、ちゃんとダウンロードできたかどうか確認するために、
+	  MD5 hashは次の値となっているはずです。
+          <blockquote>
+          MD5 = 43 16 87 58 67 D4 BB .. .. .. .. .. .. .. .. ..
+          </blockquote>
+          これは単なるヒントです。上述の方法を使って、
+          自分で完全なMD5 hashを求めておいてください。
+        </li>
+
+        <li>「新宿BOF」に印刷した
+          <code><a href="ksp-10th.txt">ksp-10th.txt</a></code>に
+          その求めたhashを書きこんで持参してください。</li>
+
+        <li>Keysigning partyでは、まず
+          <code><a href="ksp-10th.txt">ksp-10th.txt</a></code>の 
+	  MD5 hash およびSHA1 hashを読み上げます。それが自分のものと
+	  一致しているかどうか確認します。
+	  これにより全員同じ内容のファイルを参照していることが
+	  確認できます。</li>
+        
+        <li>順番に、それぞれの参加者が前に出てそのファイルに書かれている
+	  fingerprintが正しいという宣言をします。そして印刷した
+	  <code><a href="ksp-10th.txt">ksp-10th.txt</a></code>に 
+          fingerprintが正しいというマークを
+	  します。全員同じファイルを持っていることはすでに確認済みですから、
+	  ここでは<em>私の情報は正しい</em>というだけで済みます。</li>
+
+        <li>次に個人を証明できる写真つきID (パスポートや運転免許証)を
+	  使ってその人かどうかの確認を行い、
+	  印刷した<code><a href="ksp-10th.txt">ksp-10th.txt</a></code>に 
+          IDを確認したというマークをします。</li>
+
+        <li>帰宅したら、fingerprintとID両方にマークされている鍵に
+	  対してfingerprintが一致しているかどうか確認して署名し、
+	  相手にメールします。</li>
+          
+      </ul>
+
+      Downloads:
+      <ul>
+      <li><code><a href="ksp-10th.txt">ksp-10th.txt</a></code> - 参加者一覧</a><br>
+	<small>sorry, typoがありました. s/password/passport/. hashは修正してないやつで計算してください。</small></li>
+      <li><code><a href="ksp-10th.asc">ksp-10th.asc</a></code> - 参加者全員の鍵 </a></li>
+      </ul>
+
+      <h3>まとめ: 当日もってくるもの</h3>
+
+      <ul>
+
+        <li><code><a href="ksp-10th.txt">ksp-10th.txt</a></code>を
+          印刷したもの; 
+	  自分のfingerprintが正しいかどうか確認してください。</li>
+
+        <li><code><a href="ksp-10th.txt">ksp-10th.txt</a></code>の
+          MD5 hash と SHA1 hash。
+          この値で全員おなじコピーを持っていることを確認します。</li>
+
+        <li>政府が発行した個人を特定できるID (パスポートや運転免許証)</li>
+        
+      </ul>
+
+<p>
+<a href="http://www.debconf.org/debconf3/keysigning.php">Keysigning Party @ Debconf 3</a>
+</p>
+
+<p>
+<a href="http://www.cryptnet.net/fdp/crypto/gpg-party.html#toc5">関連情報</a>
+</p>
+
+<address><a href="mailto:ukai@debian.or.jp">Fumitoshi UKAI &lt;ukai@debian.or.jp&gt;</a></address>
+</div>
+
+          </div>
+        </tr></td>
+	<tr><td bgcolor="#CCCCCC" height="1">
+            <p class="rcs">
+              <img border="0" src="kana-shinjuku.gif" width="220" alt=""
+              height="33"><img border="0" src="bof-kana.gif" alt=""
+                 width="217" height="40"><br>
+               $Id: keysigning.html,v 1.11 2003-08-11 17:41:18 ukai Exp $
+            </p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
