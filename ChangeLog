@@ -1,22 +1,22 @@
 Sat Aug 16 23:29:29 2003  Kenshi Muto  <kmuto@debian.org>
 
-	* updates.html, event.html: $B=*N;9pCN$H8fNi(B
-	* $B%5!<%P$O(B8/31$B$^$GJ];}$7$h$&$+$H;W$$$^$9!#(B
+	* updates.html, event.html: 終了告知と御礼
+	* サーバは8/31まで保持しようかと思います。
 
 2003-08-12  Fumitoshi UKAI  <ukai@debian.or.jp>
 
-	* keysigning party $B80Ds=PDy@Z(B
-	  ksp-10th.* $BDI2C(B
-	  keysigning.html $B99?7(B
+	* keysigning party 鍵提出締切
+	  ksp-10th.* 追加
+	  keysigning.html 更新
 
 2003-08-11  Jun Morimoto  <morimoto@xantia.citroen.org>
 
-	* $B;CDj%?%$%`%F!<%V%k$rF~$l$?(B
+	* 暫定タイムテーブルを入れた
 
 Fri Aug  1 09:50:40 2003  Kenshi Muto  <kmuto@debian.org>
 
 	* htdocs/event.html*: add sponsors (NV, VAJ)
-	* $B3F<R%m%4$r%H%C%W%Z!<%8$KF~$l$?$[$&$,$h$$(B?
+	* 各社ロゴをトップページに入れたほうがよい?
 
 2003-07-30  Jun Morimoto  <morimoto@xantia.citroen.org>
 
@@ -26,17 +26,17 @@ Fri Aug  1 09:50:40 2003  Kenshi Muto  <kmuto@debian.org>
 
 Mon Jul 28 18:50:44 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
 
-	* event.html.en: keysigning.html $B4XO"DI=>(B
+	* event.html.en: keysigning.html 関連追従
 
 Sun Jul 27 16:30:48 2003  Kenshi Muto  <kmuto@debian.org>
 
-	* keysigning.html: Typo$B=$@5!"(Bgpg --export -a$B$N5-=R$rDI2C(B
-	* event.html: keysigning.html $B$X%j%s%/DI2C(B (.en$B$O<j$r$D$1$F$^$;$s(B)
-	* updates.html: keysigning party$B$N$*CN$i$;DI2C(B
+	* keysigning.html: Typo修正、gpg --export -aの記述を追加
+	* event.html: keysigning.html へリンク追加 (.enは手をつけてません)
+	* updates.html: keysigning partyのお知らせ追加
 
 2003-07-26  Fumitoshi UKAI  <ukai@ukai.org>
 
-	* keysigning.html: $BDI2C(B
+	* keysigning.html: 追加
 
 Mon Jul 14 00:25:16 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
 
@@ -44,7 +44,7 @@ Mon Jul 14 00:25:16 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
 
 Sun Jul 13 04:28:24 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
 
-	* event.html*: $BF|K\8l(B <=> English $B$N@Z$jBX$(%j%s%/DI2C(B
+	* event.html*: 日本語 <=> English の切り替えリンク追加
 
 2003-07-12  Jun Morimoto  <morimoto@xantia.citroen.org>
 
@@ -56,63 +56,63 @@ Sun Jul 13 04:28:24 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
 2003-07-12  Tatsuki Sugiura  <sugi@nemui.org>
 
 	* htdocs/str1-top.gif:
-	$B$H$j$"$($:!#(B24:00 $B"*(B 0:00 $B$NJQ99$KMKF|$rDI=>!#(B
-	psd $B$OD>$7$F$J$$$G$9!#(B
+	とりあえず。24:00 → 0:00 の変更に曜日を追従。
+	psd は直してないです。
 
 Sat Jul 12 02:30:53 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
 
-	* event.html.en: $BI,MW$J$$$+$b$7$l$^$;$s$,DI2C$7$H$-$^$9(B
+	* event.html.en: 必要ないかもしれませんが追加しときます
 
 2003-07-10  Tatsuki Sugiura  <sugi@nemui.org>
 
 	* event.html, place.html, updates.html:
-	$BB?>/%G%6%$%sJQ99!#30OH%F!<%V%k(B height=100%, $B%m%4$r0lHV2<$K!#(B
-	DTD $B$r(B 4.01 $B$K(B $BE}0l!#(B
+	多少デザイン変更。外枠テーブル height=100%, ロゴを一番下に。
+	DTD を 4.01 に 統一。
 
 2003-07-09  Tatsuki Sugiura  <sugi@nemui.org>
 
 	* event.html, place.html, updates.html:
-	$B%Z!<%8A+0\$G%a%K%e!<$,MI$lF0$+$J$$$h$&$K(B
+	ページ遷移でメニューが揺れ動かないように
 
 2003-07-08  Jun Morimoto  <morimoto@xantia.citroen.org>
 
-	* <title> $B=$@5(B
+	* <title> 修正
 
 Tue Jul  8 18:53:27 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
 
-	* place.html, updates.html: name="event" $B$OM=Ls8l$N$h$&$G$9(B
-	  events.src $B$H$7$FF($2$F$^$9(B
+	* place.html, updates.html: name="event" は予約語のようです
+	  events.src として逃げてます
 	       ^
 
 2003-07-08  Jun Morimoto  <morimoto@xantia.citroen.org>
 
 	* place.html, event.html, updates.html: fixed valign
-	* htdocs/place.html: $B%?%$%H%kJQ99(B ($B$*$3$7$+$?(B $B"*(B $B%"%/%;%9(B)
+	* htdocs/place.html: タイトル変更 (おこしかた → アクセス)
 
 Tue Jul  8 14:04:06 2003  Kenshi Muto  <kmuto@topstudio.co.jp>
 
-	* event.html $B;vA0?=9~$O8=>u!"M=Dj%J%7!#D>@\2q>l$^$G(B
+	* event.html 事前申込は現状、予定ナシ。直接会場まで
 
 Tue Jul  8 12:09:23 2003  Nobuhiro IMAI <nov@yo.rim.or.jp>
 
-	* place.html typo? fixed (s/$B?H0u(B/$BL\0u(B/)
+	* place.html typo? fixed (s/身印/目印/)
 
 Tue Jul  8 11:51:01 2003  Kenshi Muto  <kmuto@topstudio.co.jp>
 
-	* index.html event, place$B8x3+(B
-	* event.html Vine$B$r!V6(;?!W$+$i!V6(NO!W$K!#J8LL$b>/$7=$@5(B
-	* event.html $B%A%c!<%8Be(B 1,000$B1_$H$7$F5-=R(B
+	* index.html event, place公開
+	* event.html Vineを「協賛」から「協力」に。文面も少し修正
+	* event.html チャージ代 1,000円として記述
 
 2003-07-07  Jun Morimoto  <morimoto@xantia.citroen.org>
 
-	* 2003/8/15 -> 8/16 $B$KF|IU=q$-J}$rJQ99(B
+	* 2003/8/15 -> 8/16 に日付書き方を変更
 
 2003-07-07  Jun Morimoto  <morimoto@xantia.citroen.org>
 
-	* place.html, map-print.gif: $B0u:~MQ(Bmedia$B$G9u@~CO?^$K:9$7BX$((B
-	* index.html $B$rK\HV$K:9$7BX$((B
-	$B%H%C%W%Z!<%8$+$iFbIt$X$N%j%s%/$O$$$A$*$&;&$7$?$^$^$K$7$F$"$k(B
-	* event.html, updates.html $BFbMFE,59FM$C$3$s$@(B
+	* place.html, map-print.gif: 印刷用mediaで黒線地図に差し替え
+	* index.html を本番に差し替え
+	トップページから内部へのリンクはいちおう殺したままにしてある
+	* event.html, updates.html 内容適宜突っこんだ
 
 2003-07-06  Jun Morimoto  <morimoto@xantia.citroen.org>
 
@@ -125,6 +125,6 @@ Tue Jul  8 11:51:01 2003  Kenshi Muto  <kmuto@topstudio.co.jp>
 
 Sun Jul  6 16:11:22 2003  Kenshi Muto  <kmuto@debian.org>
 
-	* $BJQ99$+$1$?$i$$$A$*$3$N%U%!%$%k$K=q$$$F$$$/$3$H$K$7$^$7$g$&$+!#(B
-	* src/$B$O(Bpsd$B$H$+$N%U%!%$%k!"(Bhtdocs$B$,8x3+%U%!%$%kCV$->l$G$9(B
+	* 変更かけたらいちおこのファイルに書いていくことにしましょうか。
+	* src/はpsdとかのファイル、htdocsが公開ファイル置き場です
 
